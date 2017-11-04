@@ -1,0 +1,25 @@
+.flex{
+	display: -webkit-flex;
+	display: flex;
+}
+.flex.centered{
+	justify-content: center;
+}
+.flex.around{
+	justify-content: space-around;
+}
+.flex.between{
+	justify-content: space-between;
+}
+.flex.valign-top{
+	align-items: flex-start;
+}
+.flex.valign-bot{
+	align-items: flex-end;
+}
+.flex.valign-mid{
+	align-items: center;
+}
+.flex.righty{
+	justify-content: flex-end;
+}

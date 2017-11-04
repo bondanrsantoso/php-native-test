@@ -1,0 +1,14 @@
+@keyframe logo-anim{
+    0%{
+        color:#fc9116;
+    }
+    25%{
+        color:#fc9116;
+    }
+    75%{
+        color:#0682c5;
+    }
+    100%{
+        color:#0682c5;
+    }
+}
